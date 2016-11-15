@@ -7,3 +7,5 @@ out
 lib
 .mvn
 target
+*.pdf
+*.jpg
